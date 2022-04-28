@@ -15,4 +15,4 @@ This website has a few specific features.
 •	Biruk Beyene
 •	Rilio Morsh
 •	Yohana Gizachew
-•	Peter T
+•	Peter Torres
