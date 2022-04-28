@@ -3,6 +3,6 @@
 This project is the Group Project for IT 115 in Spring 2022  
 It features a website (not hosted yet) and will be a staging ground for our great work.
 
-#Website
+# Website
   
 This website has a few specific features.
