@@ -92,3 +92,9 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+
+### Groups
+
+Wherever possible, please feel free to reach out to one of our group members if you have any questions or difficulties regarding to this project so that we can keep a steady rhythem. Bringing questions and tips to our group helps everybody benefit and learn from the conversation.
+
+
