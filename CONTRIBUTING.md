@@ -97,4 +97,15 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 Wherever possible, please feel free to reach out to one of our group members if you have any questions or difficulties regarding to this project so that we can keep a steady rhythem. Bringing questions and tips to our group helps everybody benefit and learn from the conversation.
 
+### Authours
 
+1. [j-knight](https://github.com/j-knight)
+2. [kiyamy](https://github.com/kiyamy)
+3. [peterTorres7](https://github.com/peterTorres7)
+4. [gitbiruk2010](https://github.com/gitbiruk2010)
+5. [Y-Diallo](https://github.com/Y-Diallo)
+6. [riliomorsh](https://github.com/riliomorsh)
+
+### Instructor
+
+[rbunge-nsc](https://github.com/rbunge-nsc)
